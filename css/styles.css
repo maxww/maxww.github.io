@@ -659,6 +659,16 @@ progress {
   height: 75%;
 }
 
+.img-fluidp {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.img-fluids {
+  max-width: 90%;
+  height: 30%;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -3279,6 +3289,12 @@ fieldset:disabled .btn {
   color: #fff;
   background-color: #558985;
   border-color: #50817e;
+}
+
+.btn-secondaries {
+  color: #fff;
+  background-color: #000000;
+  border-color: #ffffff;
 }
 
 .btn-check:focus+.btn-primary,
